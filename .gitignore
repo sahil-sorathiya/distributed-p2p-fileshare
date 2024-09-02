@@ -1,0 +1,7 @@
+*.o
+/client/send
+/client/recv
+/client/logs
+/tracker/logs
+tracker
+client
