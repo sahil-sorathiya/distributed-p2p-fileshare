@@ -1,7 +1,7 @@
 *.o
+/tracker/tracker
+/tracker/logs
+/client/client
 /client/send
 /client/recv
 /client/logs
-/tracker/logs
-tracker
-client
