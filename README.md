@@ -1,4 +1,4 @@
-# Distributed File Sharing System
+# Distributed Group Based File Sharing System
 
 I build a group based file sharing system where users can share, download files from the group they belong to. Download happens parallelly with multiple pieces from multiple peers, parallel downloading and custom piece selection algorithm.
 
